@@ -1,0 +1,14 @@
+{
+    "name": "nhom05/lap-trinh-web",
+    "type": "project",
+    "description": "Hoang, Hung, Huy, Khang",
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    },
+    "require": {
+        "illuminate/database": "^9.16",
+        "illuminate/events": "^9.16"
+    }
+}
